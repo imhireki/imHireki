@@ -1,16 +1,26 @@
-### Yo, i'm Hireki!
+###	Yo, i'm Hireki!
 
 - 👽 Backend Developer
 - 📖 Goin' deep
 
+<span align="center" markdown="1">
+
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imHireki&theme=radical)
-<img align="right" src="https://c.tenor.com/d-CAulWk0DAAAAAj/anime-girl-cheerleader.gif">
+<img style="align-self: right" src="https://c.tenor.com/d-CAulWk0DAAAAAj/anime-girl-cheerleader.gif"></img>
+
+</span>
+
+<span align="center" markdown="1">
 
 #### 😁💻 Contact & Social
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Hireki%230733-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+</span>
+
+<span align="center" markdown="1">
 
 #### 🚀💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -27,4 +37,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+</span>
 
