@@ -40,4 +40,4 @@
 
 </span>
 
-![Snake animation](https://github.com/imHireki/imHireki/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/imHireki/imhireki/blob/output/github-contribution-grid-snake.svg)
