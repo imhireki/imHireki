@@ -1,12 +1,5 @@
-<span markdown="1">
+<img align="right" src="https://c.tenor.com/d-CAulWk0DAAAAAj/anime-girl-cheerleader.gif"></img>
 
-  ###	Yo, i'm Hireki!
-
-  👽 Backend Developer
- 
-  <img align="right" src="https://c.tenor.com/d-CAulWk0DAAAAAj/anime-girl-cheerleader.gif"></img>
-
-</span>
 <span align="center" markdown="1">
 
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imHireki&theme=radical)
