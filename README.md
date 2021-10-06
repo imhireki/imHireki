@@ -33,4 +33,4 @@
 
 </span>
 
-![Snake animation](https://github.com/imhireki/imhireki/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/imhireki/imhireki/blob/output/github-contribution-grid-snake.svg) -->
