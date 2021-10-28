@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://c.tenor.com/d-CAulWk0DAAAAAj/anime-girl-cheerleader.gif"></img> -->
 <!-- <img align="right" width="310" src="https://64.media.tumblr.com/cf6c46db14d88f72771d137f9e2d6d7f/tumblr_msctj9QOyp1r2x9k2o1_500.gif"></img> -->
-<img align="right" width="320" src="https://media0.giphy.com/media/GraeGMXcHMKAw/giphy.gif"></img>
+<img align="right" width="300" src="https://media0.giphy.com/media/GraeGMXcHMKAw/giphy.gif"></img>
 <span align="center" markdown="1">
 
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imHireki&theme=radical)
